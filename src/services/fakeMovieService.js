@@ -13,7 +13,7 @@ const movies = [
   {
     _id: "5b21ca24jfdslfajslf42331424",
     title: "Die Hand",
-    genre: { _id: "5b21ca24jfdslfajslf42331314", name: "Action" },
+    genre: { _id: "5b21ca24jfdslfajslf42331313", name: "Action" },
     numberInStock: 5,
     dailyRentalRate: 2.5,
     publishDate: "2018-01-03T19:04:28.809Z"
@@ -21,7 +21,56 @@ const movies = [
   {
     _id: "5b21ca24jfdslfajslf42331425",
     title: "Trip to Italy",
-    genre: { _id: "5b21ca24jfdslfajslf42331315", name: "Comedy" },
+    genre: { _id: "5b21ca24jfdslfajslf42331314", name: "Comedy" },
+    numberInStock: 7,
+    dailyRentalRate: 3.5,
+    publishDate: "2018-01-03T19:04:28.809Z"
+  },
+  {
+    _id: "5b21ca24jfdslfajslf42331426",
+    title: "Bad Day",
+    genre: { _id: "5b21ca24jfdslfajslf42331315", name: "Thriller" },
+    numberInStock: 6,
+    dailyRentalRate: 2.5,
+    publishDate: "2018-01-03T19:04:28.809Z",
+    liked: true
+  },
+  {
+    _id: "5b21ca24jfdslfajslf42331427",
+    title: "Happy Family",
+    genre: { _id: "5b21ca24jfdslfajslf42331313", name: "Action" },
+    numberInStock: 5,
+    dailyRentalRate: 2.5,
+    publishDate: "2018-01-03T19:04:28.809Z"
+  },
+  {
+    _id: "5b21ca24jfdslfajslf42331428",
+    title: "What a day",
+    genre: { _id: "5b21ca24jfdslfajslf42331314", name: "Comedy" },
+    numberInStock: 7,
+    dailyRentalRate: 3.5,
+    publishDate: "2018-01-03T19:04:28.809Z"
+  },
+  {
+    _id: "5b21ca24jfdslfajslf42331429",
+    title: "Last Night",
+    genre: { _id: "5b21ca24jfdslfajslf42331313", name: "Action" },
+    numberInStock: 6,
+    dailyRentalRate: 2.5,
+    publishDate: "2018-01-03T19:04:28.809Z"
+  },
+  {
+    _id: "5b21ca24jfdslfajslf42331430",
+    title: "Gone with the Wind",
+    genre: { _id: "5b21ca24jfdslfajslf42331315", name: "Thriller" },
+    numberInStock: 5,
+    dailyRentalRate: 2.5,
+    publishDate: "2018-01-03T19:04:28.809Z"
+  },
+  {
+    _id: "5b21ca24jfdslfajslf42331431",
+    title: "Pop up",
+    genre: { _id: "5b21ca24jfdslfajslf42331314", name: "Comedy" },
     numberInStock: 7,
     dailyRentalRate: 3.5,
     publishDate: "2018-01-03T19:04:28.809Z"
